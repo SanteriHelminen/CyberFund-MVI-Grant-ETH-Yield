@@ -1,13 +1,15 @@
+# Impact of Consensus Issuance Yield Curve Changes on Competitive Dynamics in the Ethereum Validator Ecosystem
+
 Research grant done as a part of CyberFund's MVI Grant program in collaboration with [@AnteroE](https://github.com/AnteroE)
 
 Link to the grant announcement: [https://x.com/cyberFund_/status/1781344621613686923](https://x.com/cyberFund_/status/1781344621613686923)
 
-## How to use
+## How to use the analysis code
 
 1. Download the raw data from the link below. Extract the data to the **data** folder.
   - Ready intermediate tables could also be found under the same link. Extract them to the **int** folder.
 
-2. If you prefer running the transformations, prepare the intermediate tables by running the files in the data_transformation folder.
+2. If you prefer running the transformations yourself, prepare the intermediate tables by running the files in the data_transformation folder.
 
 3. Run the studies in the final_tables folder.
 
