@@ -6,12 +6,12 @@ Link to the grant announcement: [https://x.com/cyberFund_/status/178134462161368
 
 ## How to use the analysis code
 
-1. Download the raw data from the link below. Extract the data to the **data** folder.
-  - Ready intermediate tables could also be found under the same link. Extract them to the **int** folder.
+1. Download the raw data from the link below and extract it to the **data** folder.
+  - Pre-prepared intermediate tables are also available at the same link. Extract these to the **int** folder.
 
-2. If you prefer running the transformations yourself, prepare the intermediate tables by running the files in the data_transformation folder.
+2. If you prefer running the transformations yourself, generate the intermediate tables by running the scripts in the **data_transformation** folder
 
-3. Run the studies in the final_tables folder.
+3. Run the analysis scripts located in the final_tables folder.
 
 > [!WARNING]
 > **A_current_competition_and_new_curves.ipynb** includes computationally heavy data transformations.
