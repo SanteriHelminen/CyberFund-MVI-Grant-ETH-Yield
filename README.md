@@ -11,7 +11,7 @@ Link to the grant announcement: [https://x.com/cyberFund_/status/178134462161368
 
 2. If you prefer running the transformations yourself, generate the intermediate tables by running the scripts in the **data_transformation** folder
 
-3. Run the analysis scripts located in the final_tables folder.
+3. Run the analysis scripts located in the **final_tables** folder.
 
 > [!WARNING]
 > **A_current_competition_and_new_curves.ipynb** includes computationally heavy data transformations.
