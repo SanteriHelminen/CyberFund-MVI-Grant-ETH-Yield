@@ -9,7 +9,7 @@ Link to the grant announcement: [https://x.com/cyberFund_/status/178134462161368
 1. Download the raw data from the link below and extract it to the **data** folder.
   - Pre-prepared intermediate tables are also available at the same link. Extract these to the **int** folder.
 
-2. If you prefer running the transformations yourself, generate the intermediate tables by running the scripts in the **data_transformation** folder
+2. If you prefer running the transformations yourself, generate the intermediate tables by running the scripts in the **data_transformation** folder.
 
 3. Run the analysis scripts located in the **final_tables** folder.
 
